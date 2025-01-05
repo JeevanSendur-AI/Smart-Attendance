@@ -1,1 +1,1 @@
-# Smart-Attendance
+# Just run the face.py script
